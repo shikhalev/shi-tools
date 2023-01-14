@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/shi-tools.svg)](https://badge.fury.io/rb/shi-tools)
+
 # Shi::Tools
 
 TODO: Delete this and the text below, and describe your gem
